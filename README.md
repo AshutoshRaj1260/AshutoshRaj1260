@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ashutosh Raj! 👋
 
-<!--
-**AshutoshRaj1260/AshutoshRaj1260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Full Stack Developer with a knack for building engaging and robust web applications. I love bringing ideas to life through code.
 
-Here are some ideas to get you started:
+## 🚀 Technologies I love:
+- **Frontend:** React, JavaScript, Tailwind CSS, Redux
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, SQL, Firebase
+- **Tools:** Git, GitHub, Docker, Postman, Render
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 My Latest Projects:
+- [**FoodGram**](https://github.com/AshutoshRaj1260/FoodGram): A MERN stack TikTok/Reels clone for food discovery.
+- [**My Portfolio**](https://ashutosh-raj56.vercel.app/): Built with Next.js and Vercel.
+
+## 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/ashutosh-raj2003/)
+- [Email](mailto:ashutoshrajofficial@gmail.com)
