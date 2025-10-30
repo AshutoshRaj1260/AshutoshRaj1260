@@ -15,3 +15,6 @@ I'm a passionate Full Stack Developer with a knack for building engaging and rob
 ## 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/ashutosh-raj2003/)
 - [Email](mailto:ashutoshrajofficial@gmail.com)
+
+✍️ GitHub Stats:
+![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshutoshRaj1260&theme=chartreuse-dark&show_icons=true&count_private=true&include_all_commits=true)
